@@ -20,7 +20,7 @@ title                    : "Quasatron Systems Co."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kenneth C. Mazie Jr"
-description              : "NOTE: This domain is up for sale.  Site is being re-written."
+description              : "A space for me to store my various scripts.  Feel free to browse around."
 url                      : "https://www.quasatron.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
