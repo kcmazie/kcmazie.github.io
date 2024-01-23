@@ -79,6 +79,41 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+ githubrepos: [
+          "UPS-Inventory",
+          "DHCP-Manager",
+          "SwitchPortActivity",
+          "UnattendedUpdate ",
+          "Cisco-Device-Inventory",
+          "Code-Snippets",
+          "ConnectionTester",
+          "Register-GVLK",
+          "DefaultSig",
+          "Set-Scheduled-Task",
+          "Datastore-Tracker",
+          "ESX-HealthCheck",
+          "WhereAbouts",
+          "PasswdToClip",
+          "SvcAcctPwdRefresh",
+          "PrintQueueMonitor",
+          "GPO-Backup",
+          "FixUnquotedServicePaths",
+          "DomainPurge",
+          "PDF-Parser",
+          "DiskCleanup",
+          "PC-Decommissioner",
+          "NetworkPrinterAudit",
+          "DomainDiskReport",
+          "Private-RegKey",
+          "RSAT-As-Admin",
+          "AutoCert",
+          "SMTP_Relay_Test",
+          "DNSValidator",
+          "ADAccountDeactivator",
+          "AuditLocalAdmins",
+          "CredentialsWithKey"
+]
+
 # Social Sharing
 twitter:
   username               :
