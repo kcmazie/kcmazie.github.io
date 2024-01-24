@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Kenneth C. Mazie Jr."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NOTE: This domain is up for sale.  Site is being re-written."
-  location         : "Somewhere"
+  bio              : "A space for me to store my various scripts.  Feel free to browse around."
+  location         : "Somewhere in the Sierra Foothills"
   email            :
   links:
     - label: "Email"
