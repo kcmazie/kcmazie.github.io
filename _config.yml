@@ -129,8 +129,9 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-# githubrepos: [
- #         "UPS-Inventory",
+ githubrepos: [
+          - label "UPS-Inventory"
+          - url "https://github.com/kcmazie/UPS-Inventory"
   #        "DHCP-Manager",
    #       "SwitchPortActivity",
     #      "UnattendedUpdate ",
@@ -162,7 +163,7 @@ author:
 #          "ADAccountDeactivator",
  #         "AuditLocalAdmins",
   #        "CredentialsWithKey"
-#]
+]
 
 # Site Footer
 footer:
