@@ -2,7 +2,7 @@
 #main:
  # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-nav:
+repos:
   - title: "Github Repos"
     children:
     - title: "Powershell Site Check Script"
