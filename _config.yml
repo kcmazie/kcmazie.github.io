@@ -129,10 +129,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-#sidebar:
+sidebar:
  nav: "repos"
- githubrepos: [
-           "kcmazie/UPS-Inventory"
+ #githubrepos: [
+  #         "kcmazie/UPS-Inventory"
   #        "DHCP-Manager",
    #       "SwitchPortActivity",
     #      "UnattendedUpdate ",
@@ -164,7 +164,7 @@ author:
 #          "ADAccountDeactivator",
  #         "AuditLocalAdmins",
   #        "CredentialsWithKey"
-]
+#]
 
 # Site Footer
 footer:
