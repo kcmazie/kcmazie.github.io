@@ -328,12 +328,12 @@ defaults:
       share: true
       related: true
 
-  repos:
-  - title: "Github Repos"
-    children:
-    - title: "Powershell Site Check Script"
-      url: https://github.com/kcmazie/Site-Check
-    - title: "Powershell UPS Inventory Script"
-      url: https://github.com/kcmazie/UPS-Inventory
-    - title: "Powershell Cisco Device Inventory Script"
-      url: https://github.com/kcmazie/Cisco-Device-Inventory
+  #repos:
+  #- title: "Github Repos"
+  #  children:
+  #  - title: "Powershell Site Check Script"
+  #    url: https://github.com/kcmazie/Site-Check
+  #  - title: "Powershell UPS Inventory Script"
+  #    url: https://github.com/kcmazie/UPS-Inventory
+  #  - title: "Powershell Cisco Device Inventory Script"
+  #    url: https://github.com/kcmazie/Cisco-Device-Inventory
