@@ -4,18 +4,20 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Powershell Site Check Script"
     url: https://github.com/kcmazie/Site-Check
+  - title: "Powershell UPS Inventory Script"
+    url: https://github.com/kcmazie/UPS-Inventory
+  - title: "Powershell Cisco Device Inventory Script"
+    url: https://github.com/kcmazie/Cisco-Device-Inventory
 
 #repos:
  # - title: "Github Repos"
   #  children:
-      - title: "Powershell UPS Inventory Script"
-        url: https://github.com/kcmazie/UPS-Inventory
+
 
     
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Powershell Cisco Device Inventory Script"
-     url: https://github.com/kcmazie/Cisco-Device-Inventory
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
