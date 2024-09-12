@@ -129,8 +129,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-sidebar:
- nav: "repos"
+#sidebar:
+ #nav: "repos"
  #githubrepos: [
   #         "kcmazie/UPS-Inventory"
   #        "DHCP-Manager",
@@ -327,6 +327,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav: "repos"
 
   #repos:
   #- title: "Github Repos"
