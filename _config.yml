@@ -330,6 +330,13 @@ defaults:
       sidebar:
         nav: "repos"
 
+ # _repos
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "repos"
   #repos:
   #- title: "Github Repos"
   #  children:
