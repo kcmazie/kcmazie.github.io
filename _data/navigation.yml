@@ -5,13 +5,48 @@
 repos:
   - title: "Github Repos"
     children:
-    - title: "Powershell Site Check Script"
-      url: https://github.com/kcmazie/Site-Check
-    - title: "Powershell UPS Inventory Script"
-      url: https://github.com/kcmazie/UPS-Inventory
-    - title: "Powershell Cisco Device Inventory Script"
-      url: https://github.com/kcmazie/Cisco-Device-Inventory
-
+    - title: "Site Check Script"
+      url: kcmazie/Site-Check
+      #url: https://github.com/kcmazie/Site-Check
+    - title: "UPS Inventory Script"
+      url: kcmazie/UPS-Inventory
+      #url: https://github.com/kcmazie/UPS-Inventory
+    - title: "Cisco Device Inventory Script"
+      url: kcmazie/Cisco-Device-Inventory
+      #url: https://github.com/kcmazie/Cisco-Device-Inventory
+ #githubrepos: [
+  #         "kcmazie/UPS-Inventory"
+  #        "DHCP-Manager",
+   #       "SwitchPortActivity",
+    #      "UnattendedUpdate ",
+     #     "Cisco-Device-Inventory",
+      #    "Code-Snippets",
+       #   "ConnectionTester",
+#          "Register-GVLK",
+ #         "DefaultSig",
+  #        "Set-Scheduled-Task",
+   #       "Datastore-Tracker",
+    #      "ESX-HealthCheck",
+     #     "WhereAbouts",
+      #    "PasswdToClip",
+#          "SvcAcctPwdRefresh",
+ #         "PrintQueueMonitor",
+  #        "GPO-Backup",
+   #       "FixUnquotedServicePaths",
+    #      "DomainPurge",
+     #     "PDF-Parser",
+      #    "DiskCleanup",
+       #   "PC-Decommissioner",
+#          "NetworkPrinterAudit",
+ #         "DomainDiskReport",
+  #        "Private-RegKey",
+   #       "RSAT-As-Admin",
+    #      "AutoCert",
+     #     "SMTP_Relay_Test",
+      #    "DNSValidator",
+#          "ADAccountDeactivator",
+ #         "AuditLocalAdmins",
+  #        "CredentialsWithKey"
 
   #  children:
 
