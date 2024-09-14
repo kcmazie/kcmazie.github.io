@@ -3,17 +3,32 @@
  # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 repos:
-  - title: "My Github Repos"
+  - title: "My PowerShell Scripts:"
     children:
-    - title: "Site Check Script"
+    - title: "Site-Check Script"
       #url: kcmazie/Site-Check
       url: https://github.com/kcmazie/Site-Check/"target="_blank
-    - title: "UPS Inventory Script"
+    - title: "UPS-Inventory Script"
       #url: kcmazie/UPS-Inventory
       url: https://github.com/kcmazie/UPS-Inventory/"target="_blank
-    - title: "Cisco Device Inventory Script"
+    - title: "Cisco-Device-Inventory Script"
       #url: kcmazie/Cisco-Device-Inventory
       url: https://github.com/kcmazie/Cisco-Device-Inventory/"target="_blank
+    - title: "Credentials-With-Key Script"
+      url: https://github.com/kcmazie/CredentialsWithKey/"target="_blank
+    - title: "RicohAudit Script"
+      url: https://github.com/kcmazie/RicohAudit/"target="_blank
+    - title: "IP-Phone-PortCycle Script"
+      url: https://github.com/kcmazie/IP-Phone-PortCycle/"target="_blank
+    - title: "Datastore-Tracker Script"
+      url: https://github.com/kcmazie/Datastore-Tracker/"target="_blank
+    - title: "UPS-Check Script"
+      url: https://github.com/kcmazie/UPS-Check/"target="_blank
+    - title: "DHCP-Monitor Script"
+      url: https://github.com/kcmazie/DHCP-Monitor/"target="_blank
+    - title: "IP-Phone-Inventory Script"
+      url: https://github.com/kcmazie/IP-Phone-Inventory/"target="_blank
+      
  #githubrepos: [
   #         "kcmazie/UPS-Inventory"
   #        "DHCP-Manager",
