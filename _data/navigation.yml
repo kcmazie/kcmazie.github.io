@@ -7,13 +7,13 @@ repos:
     children:
     - title: "Site Check Script"
       #url: kcmazie/Site-Check
-      url: https://github.com/kcmazie/Site-Check?&target=_blank
+      url: https://github.com/kcmazie/Site-Check/"target="_blank
     - title: "UPS Inventory Script"
       #url: kcmazie/UPS-Inventory
-      url: https://github.com/kcmazie/UPS-Inventory?&target=_blank
+      url: https://github.com/kcmazie/UPS-Inventory/"target="_blank
     - title: "Cisco Device Inventory Script"
       #url: kcmazie/Cisco-Device-Inventory
-      url: https://github.com/kcmazie/Cisco-Device-Inventory?&target=_blank
+      url: https://github.com/kcmazie/Cisco-Device-Inventory/"target="_blank
  #githubrepos: [
   #         "kcmazie/UPS-Inventory"
   #        "DHCP-Manager",
