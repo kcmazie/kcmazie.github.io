@@ -330,7 +330,7 @@ defaults:
   # _repos
   - scope:
       path: ""
-      type: repos
+      type: pages
     values:
       sidebar:
         nav: "repos"
