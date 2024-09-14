@@ -327,13 +327,10 @@ defaults:
       comments: # true
       share: true
       related: true
-      sidebar:
-        nav: "repos"
-
- # _repos
+  # _repos
   - scope:
       path: ""
-      type: docs
+      type: repos
     values:
       sidebar:
         nav: "repos"
