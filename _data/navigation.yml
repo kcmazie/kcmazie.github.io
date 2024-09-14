@@ -5,29 +5,35 @@
 repos:
   - title: "My PowerShell Scripts:"
     children:
-    - title: "Site-Check Script"
-      #url: kcmazie/Site-Check
+    - title: "Site Check Script"
       url: https://github.com/kcmazie/Site-Check/"target="_blank
-    - title: "UPS-Inventory Script"
-      #url: kcmazie/UPS-Inventory
+    - title: "UPS Inventory Script"
       url: https://github.com/kcmazie/UPS-Inventory/"target="_blank
-    - title: "Cisco-Device-Inventory Script"
-      #url: kcmazie/Cisco-Device-Inventory
+    - title: "Cisco Device Inventory Script"
       url: https://github.com/kcmazie/Cisco-Device-Inventory/"target="_blank
-    - title: "Credentials-With-Key Script"
+    - title: "Credentials W/Key Script"
       url: https://github.com/kcmazie/CredentialsWithKey/"target="_blank
-    - title: "RicohAudit Script"
+    - title: "Ricoh Audit Script"
       url: https://github.com/kcmazie/RicohAudit/"target="_blank
-    - title: "IP-Phone-PortCycle Script"
+    - title: "IP Phone PortCycle Script"
       url: https://github.com/kcmazie/IP-Phone-PortCycle/"target="_blank
-    - title: "Datastore-Tracker Script"
+    - title: "Datastore Tracker Script"
       url: https://github.com/kcmazie/Datastore-Tracker/"target="_blank
-    - title: "UPS-Check Script"
+    - title: "UPS Check Script"
       url: https://github.com/kcmazie/UPS-Check/"target="_blank
-    - title: "DHCP-Monitor Script"
+    - title: "DHCP Monitor Script"
       url: https://github.com/kcmazie/DHCP-Monitor/"target="_blank
-    - title: "IP-Phone-Inventory Script"
+    - title: "IP Phone Inventory Script"
       url: https://github.com/kcmazie/IP-Phone-Inventory/"target="_blank
+    - title: "Switchport Activity Script"
+      url: https://github.com/kcmazie/SwitchPortActivity/"target="_blank
+    - title: "Windows Unattended Update Script"
+      url: https://github.com/kcmazie/UnattendedUpdate/"target="_blank      
+    - title: "Connection Tester Script"
+      url: https://github.com/kcmazie/ConnectionTester/"target="_blank 
+    - title: "Whereabouts Script"
+      url: https://github.com/kcmazie/WhereAbouts/"target="_blank 
+      
       
  #githubrepos: [
   #         "kcmazie/UPS-Inventory"
