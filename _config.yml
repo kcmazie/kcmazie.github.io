@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub Repositories"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kcmazie/"target="_blank"
+      url: "https://github.com/kcmazie/\"target=\"_blank"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
