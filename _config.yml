@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Kenneth C. Mazie Jr."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A space for me to store my various scripts.  Feel free to browse around."
+  bio              : "A space for me to store my various scripts.  Feel free to browse around.  The links below point to specific scripts, the repositories link is the main page."
   location         : "Somewhere in the Sierra Foothills"
   email            :
   links:
@@ -124,47 +124,11 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub Repositories"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kcmazie"
+      url: "https://github.com/kcmazie/"target="_blank"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-#sidebar:
- #nav: "repos"
- #githubrepos: [
-  #         "kcmazie/UPS-Inventory"
-  #        "DHCP-Manager",
-   #       "SwitchPortActivity",
-    #      "UnattendedUpdate ",
-     #     "Cisco-Device-Inventory",
-      #    "Code-Snippets",
-       #   "ConnectionTester",
-#          "Register-GVLK",
- #         "DefaultSig",
-  #        "Set-Scheduled-Task",
-   #       "Datastore-Tracker",
-    #      "ESX-HealthCheck",
-     #     "WhereAbouts",
-      #    "PasswdToClip",
-#          "SvcAcctPwdRefresh",
- #         "PrintQueueMonitor",
-  #        "GPO-Backup",
-   #       "FixUnquotedServicePaths",
-    #      "DomainPurge",
-     #     "PDF-Parser",
-      #    "DiskCleanup",
-       #   "PC-Decommissioner",
-#          "NetworkPrinterAudit",
- #         "DomainDiskReport",
-  #        "Private-RegKey",
-   #       "RSAT-As-Admin",
-    #      "AutoCert",
-     #     "SMTP_Relay_Test",
-      #    "DNSValidator",
-#          "ADAccountDeactivator",
- #         "AuditLocalAdmins",
-  #        "CredentialsWithKey"
-#]
 
 # Site Footer
 footer:
