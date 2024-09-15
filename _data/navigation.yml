@@ -33,7 +33,16 @@ repos:
       url: https://github.com/kcmazie/ConnectionTester/"target="_blank 
     - title: "Whereabouts Script"
       url: https://github.com/kcmazie/WhereAbouts/"target="_blank 
-      
+    - title: "Password to Clipboard Script"
+      url: https://github.com/kcmazie/PasswdToClip/"target="_blank
+    - title: "Disk Cleanup Script"
+      url: https://github.com/kcmazie/DiskCleanup/"target="_blank
+    - title: "PC Decommissioner Script"
+      url: https://github.com/kcmazie/PC-Decommissioner/"target="_blank
+    - title: "Domain Purge Script"
+      url: https://github.com/kcmazie/DomainPurge/"target="_blank
+    - title: "DNS Validator Script"
+      url: https://github.com/kcmazie/SMTP_Relay_Test/"target="_blank
       
  #githubrepos: [
   #         "kcmazie/UPS-Inventory"
