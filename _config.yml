@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Kenneth C. Mazie Jr."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A space for me to store my various scripts.  Feel free to browse around. <br><br> The links below point to specific scripts, the repositories link is the main page."
+  bio              : "A space for me to store my various scripts.  Feel free to browse around.<br><br>This page also serves as a landing page for the various domains I own.<br><br>The links below point to specific scripts, the repositories link is the main page."
   location         : "Somewhere in the Sierra Foothills"
   email            :
   links:
